@@ -1,0 +1,108 @@
+{
+    "TURPE": {
+        "CG_HTA": {
+            "CARD": 499.8,
+            "UNIQUE": 435.72,
+            "INJECTION": 717.6
+        },
+        "CG_BT_SUP36": {
+            "CARD": 249.84,
+            "UNIQUE": 217.8,
+            "INJECTION": 358.8
+        },
+        "CG_BT_INF36": {
+            "CARD": 18.0,
+            "UNIQUE": 16.8,
+            "INJECTION": 26.4
+        },
+        "CC_HTA": 376.39,
+        "CC_BT_SUP36": 283.27,
+        "CC_BT_INF36": 22.0,
+        "HTA_PUISSANCE": {
+            "CU_FIXE": {
+                "POINTE": 14.41,
+                "HPH": 14.41,
+                "HCH": 14.41,
+                "HPB": 12.55,
+                "HCB": 11.22
+            },
+            "LU_FIXE": {
+                "POINTE": 35.33,
+                "HPH": 32.3,
+                "HCH": 20.39,
+                "HPB": 14.33,
+                "HCB": 11.56
+            }
+        },
+        "HTA_ENERGIE": {
+            "CU_FIXE": {
+                "POINTE": 5.74,
+                "HPH": 4.23,
+                "HCH": 1.99,
+                "HPB": 1.01,
+                "HCB": 0.69
+            },
+            "LU_FIXE": {
+                "POINTE": 2.65,
+                "HPH": 2.1,
+                "HCH": 1.47,
+                "HPB": 0.92,
+                "HCB": 0.68
+            }
+        },
+        "BT_SUP36_PUISSANCE": {
+            "CU": {
+                "HPH": 17.61,
+                "HCH": 15.96,
+                "HPB": 14.56,
+                "HCB": 11.98
+            },
+            "LU": {
+                "HPH": 30.16,
+                "HCH": 21.18,
+                "HPB": 16.64,
+                "HCB": 12.37
+            }
+        },
+        "BT_SUP36_ENERGIE": {
+            "CU": {
+                "HPH": 6.91,
+                "HCH": 4.21,
+                "HPB": 2.13,
+                "HCB": 1.52
+            },
+            "LU": {
+                "HPH": 5.69,
+                "HCH": 3.47,
+                "HPB": 2.01,
+                "HCB": 1.49
+            }
+        },
+        "CMDPS_HTA_COEFF": 0.04,
+        "CMDPS_BT_SUP36": 12.41
+    },
+    "Taxes": {
+        "cta_rate": 0.2193,
+        "excise_tax": 25.79,
+        "vat_rate": 0.2,
+        "c3s_rate": 0.0016
+    },
+    "Marge": {
+        "marge_commerciale": 16.0
+    },
+    "Autres_Couts": {
+        "CEE": 13.7,
+        "Garantie_Capacite": 2.5999999999999996,
+        "Garanties_Origine": 1.8
+    },
+    "Primes_Risques": {
+        "D\u00e9lai de validit\u00e9": 1.0,
+        "Co\u00fbt d'\u00e9quilibrage": 2.5,
+        "Co\u00fbt du profil": 1.0,
+        "Risque volume": 4.0,
+        "Fluctuation du parc": 0.0,
+        "Recalage Prix Live": 0.0,
+        "D\u00e9lai de Paiement": 0.28,
+        "Risque Cr\u00e9dit": 0.5
+    }
+}
